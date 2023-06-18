@@ -1,0 +1,24 @@
+{
+  "background_color": "#FFFFFF",
+  "description": "Team4159 CardinalBotics Sign-In App",
+  "display": "standalone",
+  "lang": "en-US",
+  "name": "CardinalHours Web",
+  "scope": "/ReactNativeCardinalBoticsApp/",
+  "short_name": "CardinalHours",
+  "start_url": "/ReactNativeCardinalBoticsApp/",
+  "theme_color": "#FFFFFF",
+  "orientation": "portrait",
+  "related_applications": [
+    {
+      "platform": "itunes",
+      "id": "com.team4159.cardinalboticsapp"
+    },
+    {
+      "platform": "play",
+      "url": "http://play.google.com/store/apps/details?id=com.team4159.cardinalboticsapp",
+      "id": "com.team4159.cardinalboticsapp"
+    }
+  ],
+  "prefer_related_applications": true
+}
